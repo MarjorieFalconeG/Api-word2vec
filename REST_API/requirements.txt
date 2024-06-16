@@ -1,0 +1,3 @@
+gensim==4.2
+Flask
+scipy==1.6
